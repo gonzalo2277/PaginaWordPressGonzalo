@@ -1,6 +1,6 @@
-Repositorio de mi pagina web
 La planilla que voy a utilizar es Cycle Shop
-![cycle-shop-02-home](https://github.com/user-attachments/assets/fa70ec70-f355-4838-941e-b825dc5864e9)
+![rental-agency-02-homepage](https://github.com/user-attachments/assets/c51b1e99-7b8a-4d97-8fcc-4a53c7df4eb1)Repositorio de mi pagina web
 
 Progreso de la pagina día 16/01/2026
-<img width="1351" height="675" alt="Captura de pantalla 2026-01-16 092518" src="https://github.com/user-attachments/assets/58ccfbb9-bf8c-44e8-a8b6-5d0e880a9259" />
+<img width="1351" height="605" alt="image" src="https://github.com/user-attachments/assets/b9774764-6615-41aa-889b-4d345418383c" />
+
